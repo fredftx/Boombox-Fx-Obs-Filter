@@ -6,8 +6,8 @@
 ;   data\obs-plugins\boomboxstream\...
 
 #define MyAppName "BoomBox Stream"
-#define MyAppPublisher "xFreDxx"
-#define MyAppURL "https://github.com/xFreDxx/boomboxstream"
+#define MyAppPublisher "fredftx"
+#define MyAppURL "https://github.com/fredftx/Boombox-Fx-Obs-Filter"
 #ifndef MyAppVersion
   #define MyAppVersion "0.0.0"
 #endif

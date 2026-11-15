@@ -66,7 +66,7 @@ flash nos pratos.
 
 ### Instalar no Windows
 
-Baixe da página **[Releases](https://github.com/xFreDxx/boomboxstream/releases)**:
+Baixe da página **[Releases](https://github.com/fredftx/Boombox-Fx-Obs-Filter/releases)**:
 
 - **Instalador (mais fácil):** `boomboxstream-X.Y.Z-windows-x64-installer.exe`. Feche o OBS e
   execute; ele encontra a pasta do OBS sozinho (pelo registro do Windows) e confere se é a

@@ -67,7 +67,7 @@ example: zoom on the kick drum, bloom on vocals and flash on cymbals.
 
 ### Install on Windows
 
-Download from the **[Releases](https://github.com/xFreDxx/boomboxstream/releases)** page:
+Download from the **[Releases](https://github.com/fredftx/Boombox-Fx-Obs-Filter/releases)** page:
 
 - **Installer (easiest):** `boomboxstream-X.Y.Z-windows-x64-installer.exe`. Close OBS and
   run it. It finds your OBS folder on its own (from the Windows registry) and checks
